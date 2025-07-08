@@ -7,6 +7,7 @@
 # フォルダ構成と内容
 本リポジトリのフォルダ構成は以下の通りです：
 
+```
 README.md
 ├── ja/                          # 日本語ファイル群
 │   ├── code/
@@ -29,6 +30,7 @@ README.md
 │           └── post_experiment_survey_ja.pdf    # 事後アンケート
 │
 └── en/           
+```
 
 
 
