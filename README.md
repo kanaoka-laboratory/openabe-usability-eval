@@ -12,8 +12,7 @@ README.md
 ├── ja/                          # 日本語ファイル群
 │   ├── code/
 │   │   ├── stub/               # 実験用スタブコード
-│   │   └── reference/          # その他の参考コード（スタブではない）
-│
+│   │   └── reference/          # その他の参考コード
 │   └── doc/
 │       ├── participants/       # 参加者向け資料
 │       └── instruction/       # 実験手順関連資料
