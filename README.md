@@ -38,4 +38,4 @@ https://ipsj.ixsq.nii.ac.jp/records/2002995
 本研究に関するご質問・ご意見がありましたら、下記までご連絡ください：
 
 金岡晃（東邦大学 理学部 情報科学科）  
-Email: kanaoka@is.sci.toho-u.ac.jp
+Email: akira.kanaoka@is.sci.toho-u.ac.jp
