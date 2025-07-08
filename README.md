@@ -12,26 +12,15 @@ README.md
 ├── ja/                          # 日本語ファイル群
 │   ├── code/
 │   │   ├── stub/               # 実験用スタブコード
-│   │   │   ├── CPABESetup.cpp
-│   │   │   ├── CPABEKeyGen.cpp
-│   │   │   ├── CPABEEncrypt1.cpp
-│   │   │   ├── CPABEEncrypt3.cpp
-│   │   │   ├── CPABEDecryptAlice.cpp
-│   │   │   └── CPABEDecryptDave.cpp
 │   │   └── reference/          # その他の参考コード（スタブではない）
 │
 │   └── doc/
 │       ├── participants/       # 参加者向け資料
-│       │   ├── abe-intro_ja.pdf                  # ABEの説明書
-│       │   ├── libopenabe-v.1.0.0-api-doc_ja.pdf
-│       │   └── libopenabe-v.1.0.0-design-doc_ja.pdf
 │       └── instruction/       # 実験手順関連資料
-│           ├── experiment_briefing_ja.pdf       # 実験説明書
-│           └── post_experiment_survey_ja.pdf    # 事後アンケート
 │
 └── en/           
 ```
-
+※ en/ ディレクトリには、日本語と同様の構成で英語版ファイルを配置する予定ですが、OpenABE本体の文書（libopenabe関連）は再配布せず、リンクでの案内とします。
 
 
 # 倫理的配慮
